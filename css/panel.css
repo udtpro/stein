@@ -1,0 +1,30 @@
+.content {
+    
+    display: block;
+    width: 960px;
+    
+    margin: 0 auto;    
+}
+textarea{
+    display: block;
+    margin: auto;
+    width: 800px;
+    
+    height: 400px;
+}
+
+.login {
+    background-color: rgba(124, 124, 124, 0.21);
+    padding-top: 10px;
+    margin:  auto;
+    margin-top: 20%;
+    
+    text-align: center;
+    width: 300px;
+}
+
+
+
+.table {
+    width: 100%;
+}
