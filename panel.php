@@ -79,7 +79,7 @@ else{
 
                 <div class=\"row\">
                  
-                  <div class=\"col-xs-12 col-sm-8 col-md-8\">";
+                  <div class=\"col-xs-12 col-sm-12 col-md-8\">";
                   
                  ?>
                   
@@ -109,7 +109,7 @@ else{
                   </div>
                <?php   
                  echo " 
-                  <div class=\"col-xs-6 col-sm-4 col-md-4\">
+                  <div class=\"col-xs-12 col-sm-12 col-md-4\">
                   
                     <div class=\"panel panel-default\">
                       <div class=\"panel-heading\">
@@ -136,7 +136,7 @@ else{
 
                                                                 <div class=\"row\">
 
-                                                                  <div class=\"col-xs-12 col-sm-8 col-md-8\">";
+                                                                  <div class=\"col-xs-12 col-sm-12 col-md-8\">";
                           
                                          echo "<div class=\"panel panel-default\">
                                                   <!-- Default panel contents -->
@@ -177,7 +177,7 @@ else{
                   </div>
                   
                   
-                  <div class=\"col-xs-6 col-sm-4 col-md-4\">
+                  <div class=\"col-xs-12 col-sm-12 col-md-4\">
                   
                     <div class=\"panel panel-default\">
                       <div class=\"panel-heading\">
@@ -223,7 +223,7 @@ else{
 
                                                                 <div class=\"row\">
 
-                                                                  <div class=\"col-xs-12 col-sm-8 col-md-8\">";
+                                                                  <div class=\"col-xs-12 col-sm-12 col-md-8\">";
                           
                                          echo "<div class=\"panel panel-default\">
                                                   <!-- Default panel contents -->
@@ -270,7 +270,7 @@ else{
                   </div>
                   
                   
-                  <div class=\"col-xs-6 col-sm-4 col-md-4\">
+                  <div class=\"col-xs-12 col-sm-12 col-md-4\">
                   
                     <div class=\"panel panel-default\">
                       <div class=\"panel-heading\">
@@ -316,7 +316,7 @@ else{
 
                                                                 <div class=\"row\">
 
-                                                                  <div class=\"col-xs-12 col-sm-8 col-md-8\">";
+                                                                  <div class=\"col-xs-12 col-sm-12 col-md-8\">";
                           
                                          echo "<div class=\"panel panel-default\">
                                                   <!-- Default panel contents -->
@@ -357,7 +357,7 @@ else{
                   </div>
                   
                   
-                  <div class=\"col-xs-6 col-sm-4 col-md-4\">
+                  <div class=\"col-xs-12 col-sm-12 col-md-4\">
                   
                     <div class=\"panel panel-default\">
                       <div class=\"panel-heading\">
@@ -403,7 +403,7 @@ else{
 
                                                                 <div class=\"row\">
 
-                                                                  <div class=\"col-xs-12 col-sm-8 col-md-8\">";
+                                                                  <div class=\"col-xs-12 col-sm-12 col-md-8\">";
                           
                                          echo "<div class=\"panel panel-default\">
                                                   <!-- Default panel contents -->
@@ -446,7 +446,7 @@ else{
                   </div>
                   
                   
-                  <div class=\"col-xs-6 col-sm-4 col-md-4\">
+                  <div class=\"col-xs-12 col-sm-12 col-md-4\">
                   
                     <div class=\"panel panel-default\">
                       <div class=\"panel-heading\">
@@ -492,7 +492,7 @@ else{
 
                 <div class=\"row\">
                  
-                  <div class=\"col-xs-12 col-sm-8 col-md-8\">
+                  <div class=\"ccol-xs-12 col-sm-12 col-md-8\">
                   
                   
                   
@@ -570,7 +570,7 @@ else{
                   </div>
                   
                   
-                  <div class=\"col-xs-6 col-sm-4 col-md-4\">
+                  <div class=\"col-xs-12 col-sm-12 col-md-4\">
                   
                     <div class=\"panel panel-default\">
                       <div class=\"panel-heading\">
@@ -595,7 +595,7 @@ else{
 
                 <div class=\"row\">
                  
-                  <div class=\"col-xs-12 col-sm-8 col-md-8\">
+                  <div class=\"col-xs-12 col-sm-12 col-md-8\">
                   
                 <div class=\"panel panel-default\">
   <!-- Default panel contents -->
@@ -646,7 +646,7 @@ else{
                   </div>
                   
                   
-                  <div class=\"col-xs-6 col-sm-4 col-md-4\">
+                  <div class=\"col-xs-12 col-sm-12 col-md-4\">
                   
                     <div class=\"panel panel-default\">
                       <div class=\"panel-heading\">
@@ -680,7 +680,7 @@ else{
 
                 <div class=\"row\">
                  
-                  <div class=\"col-xs-12 col-sm-8 col-md-8\">
+                  <div class=\"col-xs-12 col-sm-12 col-md-8\">
                   
                 <div class=\"panel panel-default\">
   <!-- Default panel contents -->
@@ -767,7 +767,7 @@ else{
                   </div>
                   
                   
-                  <div class=\"col-xs-6 col-sm-4 col-md-4\">
+                  <div class=\"col-xs-12 col-sm-12 col-md-4\">
                   
                     <div class=\"panel panel-default\">
                       <div class=\"panel-heading\">
@@ -810,7 +810,7 @@ else{
 
                                             <div class=\"row\">
                  
-                                        <div class=\"col-xs-12 col-sm-8 col-md-8\">";
+                                        <div class=\"col-xs-12 col-sm-12 col-md-8\">";
                                     echo "<h2>Добро пожаловать в Stein CMS</h2>
                                     <p></p>
                                     ";
@@ -818,7 +818,7 @@ else{
                                     echo "</div>
                   
 
-                                                  <div class=\"col-xs-6 col-sm-4 col-md-4\">
+                                                  <div class=\"col-xs-12 col-sm-12 col-md-4\">
 
                                                     <div class=\"panel panel-default\">
                                                       <div class=\"panel-heading\">

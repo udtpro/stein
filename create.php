@@ -202,7 +202,7 @@ mysqli_query($mysqli, "INSERT INTO `blocks_location` (`id`, `description`) VALUE
 	<script type="text/javascript" src="demos/Djenx.Explorer/djenx-explorer.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Blog udt.pro's</title>
+    <title>SCMS| Create</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
